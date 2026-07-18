@@ -1,2 +1,2 @@
-# Stream Inspector
-Broadcast Stream Inspector
+# Stream Inspector UI
+Broadcast Stream Inspector UI
