@@ -1,2 +1,2 @@
-# Stream_Inspector
+# Stream Inspector
 Broadcast Stream Inspector
